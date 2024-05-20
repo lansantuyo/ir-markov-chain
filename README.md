@@ -13,7 +13,7 @@ This project explores the use of Markov chains to model musical patterns and str
 
 ### Presentation
 
-The presentation file `CSCI115_BomedianoSalvadorSantuyo_Presentation.pdf` provides a comprehensive overview of the project, including:
+The presentation file `Presentation.pdf` provides a comprehensive overview of the project, including:
 
 - Introduction to the IR Model
 - Methodology for data extraction and Markov chain representation
@@ -22,7 +22,7 @@ The presentation file `CSCI115_BomedianoSalvadorSantuyo_Presentation.pdf` provid
 
 ### Jupyter Notebook
 
-The notebook `IR-testing.ipynb` contains the code used for:
+The notebook `IR-Markov_Chains_IR_Model.ipynb` contains the code used for:
 
 1. **Musical Data Extraction**
    - Using `music21` to extract musical elements from a dataset.
